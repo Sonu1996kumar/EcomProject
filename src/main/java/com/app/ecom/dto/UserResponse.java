@@ -1,2 +1,4 @@
-package com.app.ecom.dto;public class UserResponse {
+package com.app.ecom.dto;
+
+public class UserResponse {
 }

@@ -1,4 +1,7 @@
 package com.app.ecom.repository;
 
-public interface UserRepository extends org.springframework.data.jpa.repository.JpaRepository<com.app.ecom.bo.User, java.lang.Long> {
+import com.app.ecom.bo.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserRepository extends JpaRepository<User, Long> {
 }

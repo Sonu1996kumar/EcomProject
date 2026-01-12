@@ -1,2 +1,4 @@
-package com.app.ecom.dto;public class UserRequest {
+package com.app.ecom.dto;
+
+public class UserRequest {
 }
