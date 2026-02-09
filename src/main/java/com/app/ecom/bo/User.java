@@ -1,7 +1,7 @@
 package com.app.ecom.bo;
 
+import com.app.ecom.enums.UserRole;
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.annotations.CreationTimestamp;
